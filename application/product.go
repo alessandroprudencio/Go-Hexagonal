@@ -3,6 +3,7 @@ package application
 import (
 "github.com/asaskevich/govalidator"
 "errors"
+"github.com/satori/go.uuid"
 )
 
 func init() {
@@ -19,7 +20,7 @@ type ProductInterface interface{
     GetPrice() float64
 }
 
-type ProductService interface {
+type ProductServiceInterface interface {
     Get(id string)(ProductInterface, error)
     Create(name string, price float64)(ProductInterface, error)
     Enable(product ProductInterface)(ProductInterface, error)
@@ -53,8 +54,8 @@ type Product struct {
 
 func NewProduct() *Product {
     product := Product {
-        ID: uuid.NewV4().String()
-        Status: DISABLED
+        ID: uuid.NewV4().String(),
+        Status: DISABLED,
     }
     return &product
 }
@@ -65,7 +66,7 @@ func (p *Product) IsValid() (bool, error){
     }
 
     if p.Status != ENABLED && p.Status != DISABLED {
-        return false, errors.New("the status must be enebled or disabled")
+        return false, errors.New("the status must be enabled or disabled")
     }
 
     if p.Price < 0 {
