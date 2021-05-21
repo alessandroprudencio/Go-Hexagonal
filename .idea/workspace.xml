@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a4a5e2f-da2c-4d24-aeb1-773060006b84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/husky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/ansi-styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/ansi-styles/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/ansi-styles/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/ansi-styles/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/chalk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/chalk/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/chalk/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/chalk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/chalk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/chalk/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/chalk/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-convert/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-convert/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-convert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-convert/conversions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-convert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-convert/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-convert/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-name/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-name/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-name/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-name/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-name/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-name/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/color-name/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/has-flag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/has-flag/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/has-flag/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/has-flag/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/supports-color/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/supports-color/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/supports-color/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/supports-color/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/node_modules/supports-color/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/source/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/source/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/source/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/empty/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/empty/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/fs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/fs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/jsonfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/jsonfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json-sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json-sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/make-dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/rimraf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/rimraf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/stat.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/stat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/lib/bin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/lib/bin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/lib/husky.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/husky/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsonfile/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsonfile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsonfile/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1soi44ltZOGTfyDWUtZLooZeHem" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/TRABALHO/apple-music-clone" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\alessandro\workspace\fullcycle\Go-Hexagonal\Arquitetura-Hexagonal" />
+      <recent name="\\wsl$\Ubuntu-20.04\home\alessandro\workspace\fullcycle\Go-Hexagonal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="778f4cb4-9785-452a-ad8a-fa7213138b4a" name="Default Changelist" comment="" />
+      <created>1621545148481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621545148481</updated>
+      <workItem from="1621545150443" duration="156000" />
+      <workItem from="1621546390991" duration="1103000" />
+      <workItem from="1621557886947" duration="1538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
