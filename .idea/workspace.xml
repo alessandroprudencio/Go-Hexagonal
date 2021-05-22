@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4a5e2f-da2c-4d24-aeb1-773060006b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapters/cli/product.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapters/cli/product_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapters/db/product.go" beforeDir="false" afterPath="$PROJECT_DIR$/adapters/db/product.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapters/db/product_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/adapters/db/product_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/product_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/application/product_service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/product_service_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/application/product_service_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +74,8 @@
       <workItem from="1621596892992" duration="145000" />
       <workItem from="1621597061111" duration="1321000" />
       <workItem from="1621622687410" duration="301000" />
-      <workItem from="1621685036791" duration="3661000" />
+      <workItem from="1621685036791" duration="4119000" />
+      <workItem from="1621689206912" duration="5992000" />
     </task>
     <servers />
   </component>

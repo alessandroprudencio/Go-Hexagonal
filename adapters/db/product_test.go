@@ -19,7 +19,7 @@ func setUp() {
 
 func createTable(db *sql.DB) {
     table := `CREATE TABLE products (
-        id VARCHAR PRIMARY KEY,
+        id VARCHAR PRIMARY KEY UNIQUE,
         name VARCHAR,
         price FLOAT,
         status VARCHAR
@@ -79,6 +79,7 @@ func TestProductDb_Save(t *testing.T){
     require.Equal(t,product.Status, productResult.GetStatus())
 
     product.Status = "enabled"
+
     productResult, err = productDb.Save(product)
     require.Nil(t, err)
     require.Equal(t,product.Status, productResult.GetStatus())
