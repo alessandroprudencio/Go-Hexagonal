@@ -6,6 +6,6 @@ services:
     container_name: appproduct
     ports:
       - "9000:9000"
-#      - "53:53"
+      - "8080:8080"
     volumes:
       - .:/go/src/
