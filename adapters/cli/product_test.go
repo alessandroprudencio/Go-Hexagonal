@@ -42,7 +42,7 @@ func TestRun(t *testing.T) {
         productStatus,
     )
 
-    result, err := cli.Run(service, "create", "", productName, productPrice)
+    result, err := cli.Run(service  , "create", "", productName, productPrice)
     require.Nil(t, err)
     require.Equal(t, resultExpected, result)
 
