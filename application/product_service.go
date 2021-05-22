@@ -1,7 +1,16 @@
 package application
 
+import (
+    "fmt"
+)
+
+
 type ProductService struct {
     Persistence ProductPersistenceInterface
+}
+
+func NewProductService(persistence ProductPersistenceInterface) *ProductService {
+    return &ProductService{Persistence: persistence}
 }
 
 func (s *ProductService) Get(id string)(ProductInterface, error){
@@ -26,11 +35,11 @@ func (s *ProductService) Create(name string, price float64)(ProductInterface, er
     result, err := s.Persistence.Save(product)
 
     if err != nil {
+        fmt.Println(err)
         return &Product{}, err
     }
 
     return result, nil
-
 }
 
 func (s *ProductService) Enable(product ProductInterface)(ProductInterface, error){
@@ -62,3 +71,4 @@ func (s *ProductService) Disable(product ProductInterface)(ProductInterface, err
 
     return result, nil
 }
+

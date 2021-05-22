@@ -1,7 +1,7 @@
 package application_test
 
 import (
-"github.com/alessandroprudencio/Go-Hexagonal/application"
+    "github.com/alessandroprudencio/Go-Hexagonal/application"
     mock_application "github.com/alessandroprudencio/Go-Hexagonal/application/mocks"
     "github.com/golang/mock/gomock"
     "testing"
