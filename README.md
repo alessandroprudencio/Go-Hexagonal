@@ -1,4 +1,4 @@
-Crud de produtos utilizando a arquitetura hexagonal com golang e opção de acesso via cli como também via servidor web
+Crud de produtos utilizando a arquitetura hexagonal com golang e opção de acesso via cli como também via web server
 
 ### Para utilizar
 
