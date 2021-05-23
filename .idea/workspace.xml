@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4a5e2f-da2c-4d24-aeb1-773060006b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adapters/cli/product.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adapters/cli/product_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapters/dto/product.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapters/web/handler/product.go" beforeDir="false" afterPath="$PROJECT_DIR$/adapters/web/handler/product.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,8 @@
       <workItem from="1621597061111" duration="1321000" />
       <workItem from="1621622687410" duration="301000" />
       <workItem from="1621685036791" duration="4119000" />
-      <workItem from="1621689206912" duration="16261000" />
+      <workItem from="1621689206912" duration="17200000" />
+      <workItem from="1621773589968" duration="5010000" />
     </task>
     <servers />
   </component>

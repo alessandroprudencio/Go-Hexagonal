@@ -1,4 +1,8 @@
-Crud de produtos utilizando a arquitetura hexagonal com go lang, com opção de acesso via cli como também via servidor web
+Crud de produtos utilizando a arquitetura hexagonal com golang e opção de acesso via cli como também via servidor web
+
+### Para utilizar
+
+    docker-compose up -d
 
 ### Via CLI 
 
@@ -27,3 +31,11 @@ Buscar Produto
 Buscar Produto
 
     localhost:8080/product/452a8fd9-9e0b-400e-815e-b03a708d19c6
+
+Cadastrar Produto
+
+    http://localhost:8080/product
+    {
+        "name":"Produto 1",
+        "price": 13.22
+    }
